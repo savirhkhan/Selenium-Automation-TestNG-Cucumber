@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 37.557 s <<< FAILURE! - in TestSuite
+addRemoveItem(WebAutomation.AddRemoveItemBasketTest)  Time elapsed: 14.249 s  <<< FAILURE!
+java.lang.AssertionError: Cart Amount did not match the expected amount $45.24expected $26.13
+	at WebAutomation.AddRemoveItemBasketTest.addRemoveItem(AddRemoveItemBasketTest.java:74)
+
